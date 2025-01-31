@@ -1,0 +1,17 @@
+torch
+torchvision
+transformers
+diffusers
+opencv-python
+moviepy
+pillow
+fastapi
+uvicorn
+numpy
+scipy
+faiss-cpu
+requests
+python-dotenv
+sqlalchemy
+psycopg2-binary
+tensorflow
